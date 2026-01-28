@@ -59,3 +59,4 @@ As reuniões são organizadas por **áreas**, cada uma com seus respectivos tóp
 - Aplicação exclusivamente front-end  
 - Persistência de dados limitada à sessão ou local storage  
 - Foco em prototipação e validação de interface e fluxos
+- versão futura com back-end em breve
